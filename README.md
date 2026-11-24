@@ -8,9 +8,8 @@ This package contains **two Google Colab notebooks** that demonstrate the four a
 GlassData-LLM-Demo/
 ├── README.md
 ├── requirements.txt
-└── notebooks/
-    ├── 01_lora_qlora_demo.ipynb
-    └── 02_speech_gateway_guardrails_demo.ipynb
+└── 01_lora_qlora_demo.ipynb
+└── 02_speech_gateway_guardrails_demo.ipynb
 ```
 
 ## 1. Open the notebooks in Google Colab
