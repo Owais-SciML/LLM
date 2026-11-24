@@ -1,0 +1,7 @@
+# PyTorch is supplied by Google Colab. For local use, install the correct
+# PyTorch build for your CPU/CUDA system before installing this file.
+transformers
+peft
+accelerate
+gTTS
+sentencepiece
