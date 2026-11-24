@@ -1,9 +1,0 @@
-"""
-candidate_id: ai-intern-0171
-accuracy_model_a: 80.0%
-accuracy_model_b: 83.3%
-duplicate_question_ids: q008,q011,q017,q024,q027,q032,q035,q040,q044,q048,q050,q053
-wrong_answer_key_ids: q004,q009,q042
-github_profile: https://github.com/Owais-SciML/arithmetic-benchmark-audit/
-
-"""
